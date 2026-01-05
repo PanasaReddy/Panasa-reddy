@@ -1,0 +1,5 @@
+{
+  "name": "HSN & SAC Smart Classifier",
+  "description": "An AI-powered tool for CAs and businesses to find the most relevant HSN or SAC codes with GST rates based on a product or service description. Features single search, bulk classification via CSV, and search history.",
+  "requestFramePermissions": []
+}
